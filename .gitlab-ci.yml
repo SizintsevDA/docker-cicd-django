@@ -13,6 +13,7 @@ django tests:
   tags:
     - docker
 
+
 docker build:
   stage: build
   image: docker:stable
